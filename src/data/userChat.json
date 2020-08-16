@@ -1,0 +1,55 @@
+{
+  "userOnline":[
+      {
+        "nickname": "Fábio",
+        "isBot": false 
+      },
+      { 
+        "nickname": "Steve",
+        "isBot": true 
+      },
+      { 
+        "nickname": "Diego",
+        "isBot": false 
+      },
+      { 
+        "nickname": "Amora",
+        "isBot": true
+      },
+      { 
+        "nickname": "Grazi",
+        "isBot": false 
+      }
+  ],
+  "userOffline":[
+    {
+      "nickname": "Denis",
+      "isBot": false 
+    },
+    { 
+      "nickname": "Mario",
+      "isBot": true 
+    },
+    { 
+      "nickname": "Fabio",
+      "isBot": false 
+    },
+    { 
+      "nickname": "Douglas",
+      "isBot": true
+    },
+    { 
+      "nickname": "Davi",
+      "isBot": false 
+    },
+    { 
+      "nickname": "Mario R",
+      "isBot": false 
+    },
+    { 
+      "nickname": "Lucia",
+      "isBot": false 
+    }
+    
+  ]
+}

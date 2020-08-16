@@ -1,0 +1,60 @@
+{
+  "mensagens": [
+    {
+      "author": "Fábio",
+      "date": "01/08/2020",
+      "content": "Salve Galera, quem ai é da época do Super Nintendo?"
+    },
+    {
+      "author": "Fábio",
+      "date": "01/08/2020",
+      "content": "Quais eram os jogos que vocês mais curtiam? Eu vou de Donkey Kong 3"
+    },
+    {
+      "author": "Amora",
+      "date": "01/08/2020",
+      "content": "Sou mais o Super Mario Word!!!!"
+    },
+    {
+      "author": "Mário",
+      "date": "02/08/2020",
+      "mentioned": "@Fábio, ",
+      "content": "Zeldo.",
+      "hasMention": true,
+      "isBot": true
+    },
+    {
+      "author": "Sonic",
+      "date": "02/08/2020",
+      "mentioned": "@Fábio, ",
+      "content": "Sou mais o Mario Kart.",
+      "hasMention": true,
+      "isBot": true
+    },
+    {
+      "author": "Denis",
+      "date": "02/08/2020",
+      "mentioned": "@Sonic, ",
+      "content": "Kart era massa jogar as batalhas. Mas eu virava noites mesmo era jogando Top Gear",
+      "hasMention": true,
+      "isBot": false
+    },
+    {
+      "author": "Grazi",
+      "date": "03/08/2020",
+      "content": "Donkey Kong 2"
+    },
+    {
+      "author": "Marilha",
+      "date": "03/08/2020",
+      "content": "Mikey"
+    },
+    {
+      "author": "Jean",
+      "date": "04/08/2020",
+      "content": "Gelera, ninguém Jogava Mortal Kombat!!!!"
+    }
+
+
+  ]
+}
